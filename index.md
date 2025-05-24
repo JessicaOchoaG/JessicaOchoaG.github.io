@@ -24,7 +24,7 @@ Bienvenida/o a mi portafolio. Soy una profesional con sólida formación técnic
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [Automatización de rutas - Urban Routes](https://github.com/JessicaOchoaG/qa-project-Urban-Routes-es))
+### 🔹 [Automatización de rutas - Urban Routes](https://github.com/JessicaOchoaG/qa-project-Urban-Routes-es)
 Automatización E2E con Selenium para validar flujo de rutas en una app de transporte compartido.
 
 ### 🔹 [Pruebas de API - Urban.Grocers](https://github.com/JessicaOchoaG/qa-project-Urban-Grocers-app-es)
