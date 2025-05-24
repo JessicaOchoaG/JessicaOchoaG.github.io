@@ -5,9 +5,9 @@ title: Portafolio de Jessica Ochoa
 
 # 👩‍💻 Jessica Ochoa G.
 
-## QA Engineer | UI Automation | API Testing | Mobile QA
+## QA Tester | API Testing | Mobile QA | UI Automation
 
-Bienvenida/o a mi portafolio. Soy una profesional con sólida formación técnica y experiencia en pruebas manuales y automatizadas. Me especializo en garantizar la calidad de productos digitales mediante metodologías modernas de testing y herramientas profesionales.
+Bienvenida/o a mi portafolio. Soy una profesional QA Tester con formación técnica y experiencia en pruebas manuales y automatizadas. Me especializo en garantizar la calidad de productos digitales mediante metodologías modernas de testing y herramientas profesionales.
 
 ---
 
