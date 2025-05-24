@@ -30,6 +30,8 @@ Automatización E2E con Selenium para validar flujo de rutas en una app de trans
 ### 🔹 [Pruebas de API - Urban.Grocers](https://github.com/JessicaOchoaG/qa-project-Urban-Grocers-app-es)
 Diseño y ejecución de pruebas funcionales de API REST en una app de entrega de víveres.
 
+### 🔹 [Validación de API: Campo `firstName` (API Stand Tests)](https://github.com/JessicaOchoaG/api_stand_tests)
+Automatización de pruebas para verificar la validación del campo `firstName` en una API.  
 
 ---
 
