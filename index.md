@@ -3,15 +3,13 @@ layout: default
 title: Bienvenida
 ---
 
-![Mi Foto](/assets/images/foto-perfil.jpg){: style="border-radius: 50%; height: 120px;" }
-
 # ¡Hola! Soy Jessica 👩‍💻
 
 Bienvenida/o a mi portafolio.
 
 Mi camino en el mundo del testing no comenzó solo con herramientas o teorías, sino con una pregunta clave: _¿cómo garantizamos que la tecnología funcione como debe, para quienes la usamos todos los días?_
 
-Soy QA Tester, y más allá del conocimiento técnico —como las pruebas manuales, automatizadas o el uso de frameworks modernos— he aprendido a resolver problemas reales en entornos simulados reales. He trabajado detectado fallos y he contribuido a entregar productos más confiables y eficientes.
+Soy QA Tester, y más allá del conocimiento técnico —como las pruebas manuales, automatizadas y el uso de frameworks modernos— he aprendido a resolver problemas reales en entornos que simulan escenarios reales. He trabajado detectando fallos y he contribuido a entregar productos más confiables y eficientes.
 
 Un profesional de QA no solo prueba software: **aporta valor en cada etapa del proceso**. Mejoramos la calidad del producto, ayudamos a reducir costos a largo plazo, garantizamos el cumplimiento de estándares y optimizamos procesos para que los equipos trabajen mejor y más rápido.
 
