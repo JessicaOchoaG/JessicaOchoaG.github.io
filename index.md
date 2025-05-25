@@ -7,7 +7,10 @@ title: Bienvenida
 
 Bienvenida/o a mi portafolio.
 
-Mi camino en el mundo del testing no comenzó solo con herramientas o teorías, sino con una pregunta clave: _¿cómo garantizamos que la tecnología funcione como debe, para quienes la usamos todos los días?_
+Mi camino en el mundo del testing no comenzó con herramientas ni teorías, sino con la inquietud de hacer la experiencia con la tecnología mucho más amigable, estaba la pregunta: ¿por qué tantas veces usar una app o una página web puede resultar un poco frustrante?
+
+Esa incomodidad me llevó a preguntarme cómo podríamos hacer que la tecnología fluya mejor, que sea más amigable, y que al usarla se convierta en una EXPERIENCIA realmente grata. Hoy, canalizo esa inquietud a través del testing, buscando detectar fallos antes de que lleguen al usuario, mejorar la calidad y contribuir a que cada interacción con la tecnología sea más fluida y satisfactoria.
+
 
 Soy QA Tester, y más allá del conocimiento técnico —como las pruebas manuales, automatizadas y el uso de frameworks modernos— he aprendido a resolver problemas reales en entornos que simulan escenarios reales. He trabajado detectando fallos y he contribuido a entregar productos más confiables y eficientes.
 
