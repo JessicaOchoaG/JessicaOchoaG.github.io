@@ -1,3 +1,4 @@
+![Mi Foto](/assets/images/foto-perfil.jpg){: style="border-radius: 50%; height: 100px;" }
 ---
 layout: default
 title: Portafolio de Jessica Ochoa
