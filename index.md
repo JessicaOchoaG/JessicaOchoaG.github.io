@@ -7,14 +7,35 @@ title: Bienvenida
 
 Bienvenida/o a mi portafolio.
 
-Mi camino en el mundo del testing no comenzó con herramientas ni teorías, sino con la inquietud de hacer la experiencia con la tecnología mucho más amigable, estaba la pregunta: ¿por qué tantas veces usar una app o una página web puede resultar un poco frustrante?
+Mi camino hacia el QA Testing no comenzó con herramientas, teorías ni líneas de código.  
+Comenzó con una revelación: descubrir que existía una disciplina dedicada a garantizar que la tecnología funcione como debe.
 
-Esa incomodidad me llevó a preguntarme cómo podríamos hacer que la tecnología fluya mejor, que sea más amigable, y que al usarla se convierta en una EXPERIENCIA realmente grata. Hoy, canalizo esa inquietud a través del testing, buscando detectar fallos antes de que lleguen al usuario, mejorar la calidad y contribuir a que cada interacción con la tecnología sea más fluida y satisfactoria.
+Esa idea me encantó. Pensé: *¿de verdad existe una forma de contribuir a que las apps, las páginas web y los sistemas digitales funcionen mejor para las personas que los usamos cada día?*  
+Ahí empezó mi historia en el mundo del testing.
 
+Siempre me ha inquietado lo frustrante que puede ser enfrentarse a errores en una app o a procesos que no fluyen. ¿Por qué, si la tecnología está hecha para ayudarnos, a veces se siente como un obstáculo?
 
-Soy QA Tester, y más allá del conocimiento técnico —como las pruebas manuales, automatizadas y el uso de frameworks modernos— he aprendido a resolver problemas reales en entornos que simulan escenarios reales. He trabajado detectando fallos y he contribuido a entregar productos más confiables y eficientes.
+Esa incomodidad me llevó a hacerme una pregunta clave:  
+**¿cómo podemos hacer que la tecnología sea una experiencia más amigable, intuitiva y satisfactoria para todos?**
 
-Un profesional de QA no solo prueba software: **aporta valor en cada etapa del proceso**. Mejoramos la calidad del producto, ayudamos a reducir costos a largo plazo, garantizamos el cumplimiento de estándares y optimizamos procesos para que los equipos trabajen mejor y más rápido.
+Hoy canalizo esa inquietud a través del QA Testing.  
+Busco prevenir fallos antes de que lleguen al usuario final, mejorar la calidad de los productos y asegurarme de que cada interacción con la tecnología sea lo más fluida posible.
+
+---
+
+## 🎯 Sobre mi trabajo como QA Tester
+
+Soy QA Tester, y más allá del conocimiento técnico —como las pruebas manuales, automatizadas y el uso de frameworks modernos— he aprendido a resolver problemas reales en entornos que simulan escenarios reales.
+
+He trabajado detectando fallos, analizando comportamientos, validando integraciones y contribuyendo a entregar productos más confiables y eficientes.
+
+Un profesional de QA no solo prueba software:
+
+- ✅ Aporta valor en cada etapa del proceso  
+- ✅ Mejora la calidad del producto  
+- ✅ Ayuda a reducir costos a largo plazo  
+- ✅ Garantiza el cumplimiento de estándares  
+- ✅ Optimiza procesos para que los equipos trabajen mejor y más rápido
 
 ---
 
