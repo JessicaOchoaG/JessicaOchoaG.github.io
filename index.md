@@ -52,7 +52,7 @@ Esa experiencia me enseñó algo que ninguna certificación da por sí sola: **c
 Hoy aplico todo eso como QA Tester: combino la lógica de un proceso bien diseñado con la intuición de quien ya ha tenido que solucionar cosas que no estaban en el manual.
 
 ---
-![Texto alternativo]({{ "/assets/images/herramientas.png" | relative_url }})
+![Texto alternativo]({{ "/assets/images/herramientas.jpg" | relative_url }})
 
 ## 🔧 Habilidades y herramientas
 
