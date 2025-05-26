@@ -39,7 +39,7 @@ Un profesional de QA no solo prueba software:
 - ✅ Garantiza el cumplimiento de estándares  
 - ✅ Optimiza procesos para que los equipos trabajen mejor y más rápido
 
-![Buscador](/assets/images/buscador.jpg)
+![Buscador](/assets/images/buscador1.jpg)
 ---
 
 ## 💼 Sobre mí
@@ -53,7 +53,7 @@ Esa experiencia me enseñó algo que ninguna certificación da por sí sola: **c
 Hoy aplico todo eso como QA Tester: combino la lógica de un proceso bien diseñado con la intuición de quien ya ha tenido que solucionar cosas que no estaban en el manual.
 
 ---
-![Texto alternativo](/assets/images/herramientas.jpg){: style="border-radius: 50%; height: 120px;" }
+![Texto alternativo](/assets/images/herramientas1.jpg)
 
 ## 🔧 Habilidades y herramientas
 
