@@ -23,6 +23,8 @@ Esa incomodidad me llevó a hacerme una pregunta clave:
 Hoy canalizo esa inquietud a través del QA Testing.  
 Busco prevenir fallos antes de que lleguen al usuario final, mejorar la calidad de los productos y asegurarme de que cada interacción con la tecnología sea lo más fluida posible.
 
+![Buscador](/assets/buscador1.jpg)
+
 ---
 
 ## 🎯 Sobre mi trabajo como QA Tester
@@ -39,7 +41,7 @@ Un profesional de QA no solo prueba software:
 - ✅ Garantiza el cumplimiento de estándares  
 - ✅ Optimiza procesos para que los equipos trabajen mejor y más rápido
 
-![Buscador](/assets/buscador1.jpg)
+
 ---
 
 ## 💼 Sobre mí
@@ -64,6 +66,7 @@ Hoy aplico todo eso como QA Tester: combino la lógica de un proceso bien diseñ
 - 🛡️ Fundamentos de **pruebas de seguridad**, análisis de logs y bases de datos  
 - 🔁 Familiaridad con **metodologías ágiles** y mejora de procesos de QA  
 - 🛠️ Herramientas de trabajo: GitHub, GitHub Desktop, Trello, Notion, Jira
+
 
 ---
 
@@ -100,6 +103,7 @@ Este proyecto se centró en automatizar pruebas para validar el comportamiento c
 Diseñé casos de prueba específicos para cubrir escenarios comunes y límites del campo `firstName`, incluyendo validaciones de tipo, longitud, caracteres permitidos y manejo de valores nulos o vacíos.  
 Automatizé estas pruebas para ejecutarlas de forma recurrente en pipelines, permitiendo detectar regresiones y asegurar que la API respete los estándares definidos en cada versión. 
 
+
 ---
 
 ## 🧭 ¿Por qué elegí QA?
@@ -108,6 +112,7 @@ Porque la calidad no es un lujo: es una necesidad.
 Disfruto entender cómo funcionan las cosas... pero me gusta aún más descubrir **por qué no están funcionando**.
 
 QA me permite unir lo técnico con lo humano, y ser ese puente que anticipa errores antes de que se conviertan en problemas.
+
 
 ---
 
