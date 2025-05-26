@@ -39,6 +39,7 @@ Un profesional de QA no solo prueba software:
 - ✅ Garantiza el cumplimiento de estándares  
 - ✅ Optimiza procesos para que los equipos trabajen mejor y más rápido
 
+![Buscador](/assets/images/buscador.jpg)
 ---
 
 ## 💼 Sobre mí
