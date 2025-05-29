@@ -2,7 +2,7 @@
 layout: default
 title: Bienvenida
 ---
-#![Mi Foto](/assets/images/foto-perfil.jpg){: style="border-radius: 50%; height: 120px;" }
+![Mi Foto](/assets/images/foto-perfil.jpg){: style="border-radius: 50%; height: 120px;" }
 
 
 # ¡Hola! Soy Jessica 👩‍💻
