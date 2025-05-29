@@ -1,4 +1,5 @@
 title: Portafolio de Jessica Ochoa
-logo: /assets/images/foto-perfil.jpeg
+#logo: /assets/images/foto-perfil.jpeg
+![Mi Foto](/assets/images/foto-perfil.jpg){: style="border-radius: 50%; height: 120px;" }
 description: QA Tester | Automatización | Pruebas API | Mobile QA
 theme: jekyll-theme-minimal
